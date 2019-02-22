@@ -1,4 +1,4 @@
-# prestashop_eicmslinks (FR )
+# prestashop_eicmslinks (FR ) => Prestashop 1.6 Only
 The module does not work on version 1.7 of prestashop.<br />
 All informations for installation are here : http://www.h-hennes.fr/blog/prestashop-liens-dynamiques-dans-lediteur-tinymce/
 
